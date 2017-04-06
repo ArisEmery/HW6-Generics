@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/arisemery/CLionProjects/HW6/Dictionary.h
+KeyValue.h
+/Users/arisemery/CLionProjects/HW6/KeyValue.h
+iostream
+-
+
+/Users/arisemery/CLionProjects/HW6/KeyValue.h
+
+/Users/arisemery/CLionProjects/HW6/Testing/dictionaryTester.cpp
+dictionaryTester.h
+/Users/arisemery/CLionProjects/HW6/Testing/dictionaryTester.h
+
+/Users/arisemery/CLionProjects/HW6/Testing/dictionaryTester.h
+../Dictionary.h
+/Users/arisemery/CLionProjects/HW6/Dictionary.h
+
+/Users/arisemery/CLionProjects/HW6/Testing/keyValueTester.cpp
+keyValueTester.h
+/Users/arisemery/CLionProjects/HW6/Testing/keyValueTester.h
+iostream
+-
+
+/Users/arisemery/CLionProjects/HW6/Testing/keyValueTester.h
+../KeyValue.h
+/Users/arisemery/CLionProjects/HW6/KeyValue.h
+
+/Users/arisemery/CLionProjects/HW6/Testing/testMain.cpp
+iostream
+-
+../Dictionary.h
+/Users/arisemery/CLionProjects/HW6/Dictionary.h
+../KeyValue.h
+/Users/arisemery/CLionProjects/HW6/KeyValue.h
+keyValueTester.h
+/Users/arisemery/CLionProjects/HW6/Testing/keyValueTester.h
+dictionaryTester.h
+/Users/arisemery/CLionProjects/HW6/Testing/dictionaryTester.h
+
